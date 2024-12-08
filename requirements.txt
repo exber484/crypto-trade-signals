@@ -1,4 +1,4 @@
-Flask
-requests
-numpy
-talib-binary
+Flask>=3.0.0
+requests>=2.0.0
+numpy>=1.21.0
+TA-Lib
