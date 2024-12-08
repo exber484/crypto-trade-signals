@@ -1,4 +1,4 @@
 Flask
 requests
 numpy
-ta-lib
+talib-binary
