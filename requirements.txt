@@ -1,5 +1,4 @@
 Flask
 requests
 numpy
-pandas
-pandas-ta
+ta-lib
